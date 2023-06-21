@@ -1,0 +1,1 @@
+This is a Basic Weather Application made using Html, CSS, JS and Django. 
